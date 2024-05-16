@@ -9,7 +9,7 @@ body {
 .social-nav {
     position: fixed;
     top: 0;
-    background-color: #dbdbdb1e;
+    background-color: #dbdbdb1e00;
     padding: 0.5rem;
     text-align: center;
     z-index: 1000;
